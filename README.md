@@ -10,7 +10,7 @@
 </h1>
 </div>
 
-### I am a Java Developer. I've been studying java last 2 years. Here I post my projects that I create during the learning process.
+### I am a Java Developer. I've been studying java last 3 years. Here I post my projects that I create during the learning process.
 ### Contact me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ivan-alimin/">
